@@ -1,9 +1,19 @@
 
-<img src="https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/271708990_219272090403979_1718283068838125619_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=19026a&_nc_ohc=pf87nG2quh0AX8bIyqJ&_nc_oc=AQlgROQmscYW6YtVf5X2RB0NBZ1T9kLMLHBeTGkqR0DXJep094Le0KcdJ4HDDuMfFbo&_nc_ht=scontent.fdac138-1.fna&oh=00_AT-SQpMqkB5GiCEwruygbKiSa830X-kCE77oQDMjZhpKfw&oe=6322F254"/>
-### I'm Imran hossain
-#### 👑 I'm Web Developer
-#### 🖊️ Love to write code 
-#### 🎤 Like to share my knowledge
+<div>
+<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" height="300" alt="not found"/>
+
+<img src="https://cdn.myportfolio.com/e39b78a5123310228ead38e0d4e29f2d/f6ec2216-96fd-4d18-9702-a85761ff4e48_rw_600.gif?h=d11a6b06667a16455c9a75d59da0e38e" height="270" width="400" alt="not found"/>
+</div>
+
+
+
+ <h2>Hi, I'm Imran hossain</h2>
+ <hr>
+ 👑 I'm Web Developer
+<br/>
+ 🖊️ Love to write code 
+<br/>
+ 🎤 Like to share my knowledge
 
 
 I am Web Application Developer & I love to learn and love to help others. I can do any work with confidence
@@ -24,7 +34,5 @@ Skills: HTML | CSS | JavaScript | React.js | Node.js | Express.js | MongoDB
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
