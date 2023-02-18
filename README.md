@@ -1,19 +1,17 @@
 
 <div>
-<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" height="250" width="300" alt="not found"/>
-
-<img src="[https://c.tenor.com/JzmAUxg_F2oAAAAd/ajr-neotheater.gif](https://images.squarespace-cdn.com/content/v1/5f57e3d3cacd6801b4e0d222/3336702f-7a19-460f-9529-4b2b8e747d72/imranland-logo-2.gif)" height="270" width="250" alt="not found"/>
+<img src="https://images.squarespace-cdn.com/content/v1/5f57e3d3cacd6801b4e0d222/3336702f-7a19-460f-9529-4b2b8e747d72/imranland-logo-2.gif" height="270" width="250" alt="not found"/>
 </div>
 
 
 
- <h2>Hi, I'm Imran hossain</h2>
+ <h2>Hey, I'm Imran </h2>
  <hr>
- 👑 I'm Web Developer
+ 👑 I'm Frontend developer
 <br/>
- 🖊️ Love to write code 
+ 🖊️ I love doing project
 <br/>
- 🎤 Like to share my knowledge
+ 🎤 I am alwoys love the other person.
 
 
 I am Web Application Developer & I love to learn and love to help others. I can do any work with confidence
