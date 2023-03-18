@@ -1,13 +1,8 @@
 
 <div>
 <img src="https://images.squarespace-cdn.com/content/v1/5f57e3d3cacd6801b4e0d222/3336702f-7a19-460f-9529-4b2b8e747d72/imranland-logo-2.gif" height="270" width="250" alt="not found"/>
- <img src="https://images.squarespace-cdn.com/content/v1/5f57e3d3cacd6801b4e0d222/3336702f-7a19-460f-9529-4b2b8e747d72/imranland-logo-2.gif" height="270" width="250" alt="not found"/>
- <img src="https://images.squarespace-cdn.com/content/v1/5f57e3d3cacd6801b4e0d222/3336702f-7a19-460f-9529-4b2b8e747d72/imranland-logo-2.gif" height="270" width="250" alt="not found"/>
+
 </div>
-
-
-
- <h2>Hey, I'm Imran </h2>
  <hr>
  👑 I'm Frontend developer
 <br/>
@@ -20,9 +15,8 @@ I am Web Application Developer & I love to learn and love to help others. I can 
 
 Skills: HTML | CSS | JavaScript | React.js | Node.js | Express.js | MongoDB
 
-- 🔭 I’m currently working on  manufacture project  
-- 🌱 I’m currently learning mangoes 
-- 👯 I’m looking to collaborate on Githup 
+- 🔭 I’m currently leaning javascript core deeply  .
+- 👯 I same time  to collaborate on Githup .
 - 💬 Ask me about web Developer 
 - 📫 How to reach me: imranrh247@gmail.com 
 
